@@ -1,0 +1,35 @@
+.navbar{
+	width:100%;
+	height:20%;
+	background-color: #3CB371;
+	border-bottom: black 10px;
+	font-family: 'Arvo', serif;
+	display: inline-block;
+}
+.li{
+ 	margin-left:90%;
+ 	display:block;
+ 	padding-right: 20px;
+ 	color: white;
+ 	font-size:15px;
+ 	font-family: 'Arvo', serif;
+}
+.li:hover{
+	text-decoration: none;
+}
+h4{
+	color:gray;
+	font-family: 'Arvo', serif;
+}
+h1{
+	color:white;
+	font-family: 'Arvo', serif;
+}
+#wrapper{
+	margin: auto 0px;
+	width: 50%;
+	height: 100%;
+}
+.pictures{
+	margin: auto 0px;
+}
